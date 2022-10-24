@@ -1,0 +1,14 @@
+.movie {
+  max-width: 60%;
+}
+
+.Card {
+  display: flex;
+  max-height: 30%;
+}
+
+.Card img {
+  padding: 0.4rem 2rem 2rem 0;
+  max-width: 268px;
+  height: 75%;
+}
